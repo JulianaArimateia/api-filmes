@@ -1,0 +1,14 @@
+{
+    "name": "juliana/api",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juliana"
+        }
+    ],
+    "require": {}
+}
